@@ -1,21 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ismail Adil</h1>
-<h3 align="center">A passionate Full-Stack developer from Sudan</h3>
+<!-- Hi message -->
+<h2 align="center">Hi there 👋</h2>
+<p align="center"><em>Designing helpful, secure software — one clean commit at a time.</em></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismaillxxadil" alt="ismaillxxadil" /></a> </p>
+#  About Me
+- 🎓 **Third-year Computer Science student** at **Helwan University, Cairo**
+- 💼 **Full-Stack Developer** — MERN stack & **Next.js**
+- 🛡️ Learning **cybersecurity** on my path to becoming a **security-focused software engineer**
+- 🤝 Open to collaborating on **MERN/Next.js** and **security-minded** projects
+- 🚀 Passionate about creating **helpful**, **accessible**, and **high-performance** web apps
+- 📫 Reach me: **[ismailadil2001@gmail.com](mailto:ismailadil2001@gmail.com)**
 
-- 🌱 I’m currently learning **Next.js 16**
 
-- 💬 Ask me about **MERN stack**
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-adil-529173346/)
 
-- 📫 How to reach me **ismailadil2001@gmail.com**
+# 💻 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Languages**
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Frontend**
+  
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaillxxadil&show_icons=true&locale=en&layout=compact" alt="ismaillxxadil" /></p>
+**Backend**
+  
+![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismaillxxadil&" alt="ismaillxxadil" /></p>
+**Database**
+  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+  
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+# 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ismaillxxadil&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ismaillxxadil)       [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaillxxadil&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&card_width=360)](https://github.com/ismaillxxadil)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ismaillxxadil&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+## 📈 Profile Overview (nice to have)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismaillxxadil&theme=vue)
