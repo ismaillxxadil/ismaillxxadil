@@ -48,6 +48,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ismaillxxadil&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-## 📈 Profile Overview (nice to have)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismaillxxadil&theme=vue)
