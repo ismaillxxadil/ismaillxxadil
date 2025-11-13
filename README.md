@@ -10,10 +10,6 @@
 - 🚀 Passionate about creating **helpful**, **accessible**, and **high-performance** web apps
 - 📫 Reach me: **[ismailadil2001@gmail.com](mailto:ismailadil2001@gmail.com)**
 
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-adil-529173346/)
-
 ## 💻 Tech Stack
 
 **Languages:** 
